@@ -1,0 +1,16 @@
+<map id="ArchUnitNET.Domain.IHasAttributes" name="ArchUnitNET.Domain.IHasAttributes">
+<area shape="rect" id="node2" href="$classArchUnitNET_1_1Domain_1_1Assembly.html" title="ArchUnitNET.Domain.Assembly" alt="" coords="303,153,523,179"/>
+<area shape="rect" id="node3" href="$interfaceArchUnitNET_1_1Domain_1_1ICanBeAnalyzed.html" title="ArchUnitNET.Domain.ICanBe\lAnalyzed" alt="" coords="311,204,514,245"/>
+<area shape="rect" id="node4" href="$interfaceArchUnitNET_1_1Domain_1_1IMember.html" title="ArchUnitNET.Domain.IMember" alt="" coords="571,111,785,138"/>
+<area shape="rect" id="node8" href="$interfaceArchUnitNET_1_1Domain_1_1IType.html" title="ArchUnitNET.Domain.IType" alt="" coords="583,311,773,338"/>
+<area shape="rect" id="node5" href="$classArchUnitNET_1_1Domain_1_1FieldMember.html" title="ArchUnitNET.Domain.Field\lMember" alt="" coords="847,5,1034,47"/>
+<area shape="rect" id="node6" href="$classArchUnitNET_1_1Domain_1_1MethodMember.html" title="ArchUnitNET.Domain.Method\lMember" alt="" coords="837,71,1044,112"/>
+<area shape="rect" id="node7" href="$classArchUnitNET_1_1Domain_1_1PropertyMember.html" title="ArchUnitNET.Domain.Property\lMember" alt="" coords="835,136,1047,177"/>
+<area shape="rect" id="node9" href="$classArchUnitNET_1_1Domain_1_1Class.html" title="ArchUnitNET.Domain.Class" alt="" coords="845,202,1037,229"/>
+<area shape="rect" id="node11" href="$classArchUnitNET_1_1Domain_1_1Enum.html" title="ArchUnitNET.Domain.Enum" alt="" coords="843,253,1038,279"/>
+<area shape="rect" id="node12" href="$classArchUnitNET_1_1Domain_1_1GenericParameter.html" title="ArchUnitNET.Domain.Generic\lParameter" alt="" coords="837,304,1044,345"/>
+<area shape="rect" id="node13" href="$classArchUnitNET_1_1Domain_1_1Interface.html" title="ArchUnitNET.Domain.Interface" alt="" coords="833,370,1048,397"/>
+<area shape="rect" id="node14" href="$classArchUnitNET_1_1Domain_1_1Struct.html" title="ArchUnitNET.Domain.Struct" alt="" coords="842,421,1039,447"/>
+<area shape="rect" id="node15" href="$classArchUnitNET_1_1Loader_1_1Type.html" title="ArchUnitNET.Loader.Type" alt="" coords="851,471,1030,498"/>
+<area shape="rect" id="node10" href="$classArchUnitNET_1_1Domain_1_1Attribute.html" title="ArchUnitNET.Domain.Attribute" alt="" coords="1096,202,1311,229"/>
+</map>
